@@ -1,8 +1,8 @@
 {
-  "version": "3.2.0",
+  "version": "3.3.0",
   "date": "2026-11-16",
-  "notes": "Живая деревня в Убежище: NPC ходят, строят, торгуют и болтают. Жителей можно лечить. NPC merzkiy теперь может стать союзником. Исправлен Мемный подвал. Оружие и броня видны на герое.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.2.0/DarkWorld-3.2.0.apk",
-  "sha256": "e055dd859b054eecc43c307f83182e68f0ddc859e2f4c836941f9c33b2ecc4c6",
+  "notes": "Прогуливаемая деревня: камера, коллизии, WASD/D-pad и автопуть. Улучшения Лекаря, Архивариуса и Алтаря углей дают постоянные бонусы. Жители ходят, строят и торгуют, здания и дома перерисованы.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.3.0/DarkWorld-3.3.0.apk",
+  "sha256": "68074e72d41421847467ca105c021e09deaa4a67b918f30d35d5be802ed0c3fb",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

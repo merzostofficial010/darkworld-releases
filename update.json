@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
+  "version": "2.3.0",
   "date": "2026-11-15",
-  "notes": "Микрообновление: раздел «Об игре» в настройках и слова merzost.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.1.1/DarkWorld-2.1.1.apk",
-  "sha256": "5337c258e290746d54e082da9ee06948ee057c195f0f1cc39827ada6c9a33291",
+  "notes": "Обучение для новых игроков, кинематографичная заставка и повторный просмотр интро.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.3.0/DarkWorld-2.3.0.apk",
+  "sha256": "469ccf88a578a7305fdc54cde23f2a757bc9dcd6227995d3706b22f9e756163c",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

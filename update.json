@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "date": "2026-11-15",
-  "notes": "Божественная редкость, гарантия силы лута, 14 случайных локаций, новые враги, боссы и NPC, Telegram-канал и восстановление за рекламу.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.6.0/DarkWorld-2.6.0.apk",
-  "sha256": "e0927551b9d87947d200c5e183d9c9b39024fd11397b54788547c35e01813c23",
+  "version": "3.0.0",
+  "date": "2026-11-16",
+  "notes": "Убежище с осколками угля, 20 реликвий, сюжет из шести сердец, финальное Дно и две концовки, режим «Бездна», сохранения v2 с миграцией, экспорт и импорт, новые достижения.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.0.0/DarkWorld-3.0.0.apk",
+  "sha256": "5df952ea9a1ded9b3858c0fddb44a191f88fd50b234511a3864a5ec1cb9fb756",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

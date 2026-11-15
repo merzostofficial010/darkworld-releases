@@ -1,8 +1,8 @@
 {
-  "version": "3.3.1",
+  "version": "3.4.0",
   "date": "2026-11-16",
-  "notes": "Человечек merzkiy теперь только в главном меню и не перекрывает настройки и другие окна. Деревня и улучшения зданий сохранены.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.3.1/DarkWorld-3.3.1.apk",
-  "sha256": "f8b9b9c917d29bd8d209e3696c8cb87040358fc6a1249ec19e87eda019942cb8",
+  "notes": "Деревня больше не теряет HP и не требует лечения жителей. В подземелье лечебные предметы лечат выбранного союзника: при одном раненом — автоматически, при нескольких — с выбором цели. Спутникам можно выдавать оружие, броню и амулеты прямо из сумки, снимать снаряжение обратно. Второй спутник теперь идёт за первым и не теряется в узких коридорах; экипировка усиливает атаку, защиту, крит и уклонение союзников.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.4.0/DarkWorld-3.4.0.apk",
+  "sha256": "caa65425a483fe1df3b52ea8db5c519c3ab2a2bc5a4c86bf3e9405b6d24121b4",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

@@ -1,8 +1,8 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "date": "2026-11-16",
-  "notes": "Убежище с осколками угля, 20 реликвий, сюжет из шести сердец, финальное Дно и две концовки, режим «Бездна», сохранения v2 с миграцией, экспорт и импорт, новые достижения.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.0.0/DarkWorld-3.0.0.apk",
-  "sha256": "5df952ea9a1ded9b3858c0fddb44a191f88fd50b234511a3864a5ec1cb9fb756",
+  "notes": "Анимированная модель разработчика в левом нижнем углу, подпись над головой и реплика «Я merzkiy» по нажатию.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.0.1/DarkWorld-3.0.1.apk",
+  "sha256": "24c2137065402b2ddf40348fb22c6246fca8c59caee408d52ab6d764ab4ca338",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

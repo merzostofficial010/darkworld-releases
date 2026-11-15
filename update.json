@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
+  "version": "2.5.0",
   "date": "2026-11-15",
-  "notes": "Обучение для новых игроков, кинематографичная заставка и повторный просмотр интро.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.3.0/DarkWorld-2.3.0.apk",
-  "sha256": "469ccf88a578a7305fdc54cde23f2a757bc9dcd6227995d3706b22f9e756163c",
+  "notes": "Новые герои, автовыстрел, профессии спутников, алтари, торговцы, проклятия и 24 достижения.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.5.0/DarkWorld-2.5.0.apk",
+  "sha256": "baba5b24b8d2b128f810aab56e8b2dab2f140948921cbca22749667aa79659c6",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

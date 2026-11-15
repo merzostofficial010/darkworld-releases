@@ -1,8 +1,8 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "date": "2026-11-16",
-  "notes": "Анимированная модель разработчика в левом нижнем углу, подпись над головой и реплика «Я merzkiy» по нажатию.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.0.1/DarkWorld-3.0.1.apk",
-  "sha256": "24c2137065402b2ddf40348fb22c6246fca8c59caee408d52ab6d764ab4ca338",
+  "notes": "Убрано свечение вокруг модели разработчика и речевого облака.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.0.2/DarkWorld-3.0.2.apk",
+  "sha256": "ce64f8c9977938c0aac71dfcd49db3aa2a319899f6b10c785f8db0ab383daed1",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

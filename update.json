@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
+  "version": "2.6.0",
   "date": "2026-11-15",
-  "notes": "Компактный HUD, подтверждение нового забега и выхода, новая иконка приложения.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.5.1/DarkWorld-2.5.1.apk",
-  "sha256": "ed7b2a31fec067222fa77e597961533fd6aa5a7a0869ae9d4030a654d756f963",
+  "notes": "Божественная редкость, гарантия силы лута, 14 случайных локаций, новые враги, боссы и NPC, Telegram-канал и восстановление за рекламу.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.6.0/DarkWorld-2.6.0.apk",
+  "sha256": "e0927551b9d87947d200c5e183d9c9b39024fd11397b54788547c35e01813c23",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

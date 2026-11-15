@@ -1,8 +1,8 @@
 {
-  "version": "3.1.0",
+  "version": "3.2.0",
   "date": "2026-11-16",
-  "notes": "Мемный подвал, NPC merzkiy с секретным достижением, скидка 99% и секретный код в имени. Введи merzkiy — получишь доширак и булит.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.1.0/DarkWorld-3.1.0.apk",
-  "sha256": "594407371267d8910124ddc10cc76528d847a8f1f7d95c843e6ba2e40d53715e",
+  "notes": "Живая деревня в Убежище: NPC ходят, строят, торгуют и болтают. Жителей можно лечить. NPC merzkiy теперь может стать союзником. Исправлен Мемный подвал. Оружие и броня видны на герое.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.2.0/DarkWorld-3.2.0.apk",
+  "sha256": "e055dd859b054eecc43c307f83182e68f0ddc859e2f4c836941f9c33b2ecc4c6",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

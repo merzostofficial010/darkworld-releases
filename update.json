@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "date": "2026-11-15",
-  "notes": "Сумка с фильтрами и сравнением, усиления при уровне, NPC и отряд, новые локации, элитные враги, боссы каждые 5 этажей.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.1.0/DarkWorld-2.1.0.apk",
-  "sha256": "371332458ad4a2b3d905d82660f6ab8f9fc6f8767fb2dfd7bb83ce75fc1a4fff",
+  "notes": "Микрообновление: раздел «Об игре» в настройках и слова merzost.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.1.1/DarkWorld-2.1.1.apk",
+  "sha256": "5337c258e290746d54e082da9ee06948ee057c195f0f1cc39827ada6c9a33291",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

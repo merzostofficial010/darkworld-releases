@@ -1,8 +1,8 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.3",
   "date": "2026-11-16",
-  "notes": "Убрано свечение вокруг модели разработчика и речевого облака.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.0.2/DarkWorld-3.0.2.apk",
-  "sha256": "ce64f8c9977938c0aac71dfcd49db3aa2a319899f6b10c785f8db0ab383daed1",
+  "notes": "Зацикленная модель разработчика с прозрачным фоном и ролик с репликой «Я merzkiy» по нажатию.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.0.3/DarkWorld-3.0.3.apk",
+  "sha256": "77654a5a4729173a01aa3167675c3f29ce6ad3bf9eea802bed29c4ce5c2588e2",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

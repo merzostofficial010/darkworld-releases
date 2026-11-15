@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "date": "2026-11-15",
-  "notes": "DarkWorld 2.0.1: заставка с растворением в пыль, музыка drones, полный экран, автообновление, подпись merzost.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.0.1/DarkWorld-2.0.1.apk",
-  "sha256": "efe4e465e15674e9c779bf3794243bf01998b5c2cc9938cec7ba7e262a124dfb",
+  "notes": "Сумка с фильтрами и сравнением, усиления при уровне, NPC и отряд, новые локации, элитные враги, боссы каждые 5 этажей.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v2.1.0/DarkWorld-2.1.0.apk",
+  "sha256": "103c67f730ae1f629004163a19f761d05ebec64c1c1f98100d79a2f4226e95d3",
   "page": "https://github.com/merzostofficial010/darkworld-releases/releases/latest"
 }

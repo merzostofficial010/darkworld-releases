@@ -1,8 +1,8 @@
 {
-  "version": "3.5.0",
-  "date": "2026-11-17",
-  "notes": "Задания по слоям: у каждого из шести слоёв свои цели — босс, зачистки, охота на элиту, золото, разведка, тайники, алтари, торговцы и спасение пленников. Карта этажа по кнопке M с лестницей вниз, маркерами целей и прогрессом заданий. Добавлены достижения и кодекс, таблица рекордов, «Вылазка дня» и облачные сохранения.",
-  "apk": "https://yuvujcipebpjniquwinb.supabase.co/storage/v1/object/public/apk/DarkWorld-3.5.0.apk",
-  "sha256": "3910773ba1dedae48f3f3539c0cef956e4870caf7bffa685fb272d32e62fcbf5",
-  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v3.5.0"
+  "version": "3.5.1",
+  "date": "2026-11-16",
+  "notes": "Внешность героя: базовый образ и 6 пресетов на каждый класс. Выбор при создании, отображение в портрете, деревне и подземелье. Профиль устройства без почты: имя в настройках, анонимная сессия и облачные сохранения. PNG-модели NPC: жители деревни с анимацией ходьбы и портреты подземных NPC. Старые сохранения совместимы.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.5.1/DarkWorld-3.5.1.apk",
+  "sha256": "72dd42d4e85b7304b0889ead3e22426dc44ca2daa5524d042cb66819facc68b3",
+  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v3.5.1"
 }

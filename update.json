@@ -1,8 +1,8 @@
 {
-  "version": "3.5.1",
-  "date": "2026-11-16",
-  "notes": "Внешность героя: базовый образ и 6 пресетов на каждый класс. Выбор при создании, отображение в портрете, деревне и подземелье. Профиль устройства без почты: имя в настройках, анонимная сессия и облачные сохранения. PNG-модели NPC: жители деревни с анимацией ходьбы и портреты подземных NPC. Старые сохранения совместимы.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.5.1/DarkWorld-3.5.1.apk",
-  "sha256": "72dd42d4e85b7304b0889ead3e22426dc44ca2daa5524d042cb66819facc68b3",
-  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v3.5.1"
+  "version": "3.5.2",
+  "date": "2026-11-17",
+  "notes": "Новые дома, кузница, архив, дом травницы и алтарь в едином стиле: каменный цоколь, фахверк, черепица, окна с тёплым светом и вывески. В деревне удобное шаговое движение свайпами и D-pad, как в подземелье. У зданий появляется кнопка «Открыть», панель улучшений прокручивается в видимую область. PNG-модели NPC v2, мобильный интерфейс и внешность героя из 3.5.1. Старые сохранения совместимы.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.5.2/DarkWorld-3.5.2.apk",
+  "sha256": "b24871e0537da4d27b4b0fcfd910373458a5c4c4e9a3e066e1e73ccd68ac4fe8",
+  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v3.5.2"
 }

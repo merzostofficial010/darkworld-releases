@@ -1,8 +1,8 @@
 {
-  "version": "3.6.2",
+  "version": "3.9.0",
   "date": "2026-11-17",
-  "notes": "Техническое обновление.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.6.2/DarkWorld-3.6.2.apk",
-  "sha256": "2184535d535b319a5bb2740bdc94ce2c18702a3afb824712e84afbe7a6d2345a",
-  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v3.6.2"
+  "notes": "Пути мастерства: 50 вечных улучшений героя, 7 рангов и клановые бонусы.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.9.0/DarkWorld-3.9.0.apk",
+  "sha256": "d2c00dc02d93acdb24e3e65a65fe688a450eeef0283d1b466bdecfdb76b0b278",
+  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v3.9.0"
 }

@@ -1,8 +1,8 @@
 {
-  "version": "3.9.0",
-  "date": "2026-11-17",
-  "notes": "Пути мастерства: 50 вечных улучшений героя, 7 рангов и клановые бонусы.",
-  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v3.9.0/DarkWorld-3.9.0.apk",
-  "sha256": "d2c00dc02d93acdb24e3e65a65fe688a450eeef0283d1b466bdecfdb76b0b278",
-  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v3.9.0"
+  "version": "4.0.0",
+  "date": "2026-11-18",
+  "notes": "Кланы 4.0: донат угля и света любым количеством, казна света, прокачка клана до 30 уровня за свет, рейтинг богатства кланов по углю и свету, новые косметика и полупрозрачный профиль.",
+  "apk": "https://github.com/merzostofficial010/darkworld-releases/releases/download/v4.0.0/DarkWorld-4.0.0.apk",
+  "sha256": "e1daa0868b4cb8b2af3e2fa79dd4ccdd1b8db0c96939cf0b74bf791a43ef6abe",
+  "page": "https://github.com/merzostofficial010/darkworld-releases/releases/tag/v4.0.0"
 }
